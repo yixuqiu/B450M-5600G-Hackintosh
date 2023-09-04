@@ -41,12 +41,12 @@ All kinds of errors and kernel panics, beyond my responsibility.
 For Alfinauzikri - https://github.com/alfinauzikri/B550-5600G-6600XT-Hackintosh
 
 ## Results
-![Screenshot 2022-12-19 at 23 31 44](https://user-images.githubusercontent.com/14070303/208474954-27f296fe-ea67-4485-9874-0fc14e7dec94.png)
+[![Captura-de-pantalla-2023-09-03-a-la-s-20-16-58.png](https://i.postimg.cc/L6Q8pm5g/Captura-de-pantalla-2023-09-03-a-la-s-20-16-58.png)](https://postimg.cc/QH53gGpj)
 
-![Screenshot 2022-12-19 at 23 41 17](https://user-images.githubusercontent.com/14070303/208475833-ee64b1c0-48e2-4cca-a662-acef192670d7.png)
+[![Captura-de-pantalla-2023-08-27-a-la-s-17-03-50.png](https://i.postimg.cc/RFx0DGFP/Captura-de-pantalla-2023-08-27-a-la-s-17-03-50.png)](https://postimg.cc/Mctxc71R)
 
-![Screenshot 2022-12-19 at 23 43 21](https://user-images.githubusercontent.com/14070303/208476289-1a5a690a-b65e-45a9-963b-a565bee3276d.png)
+[![Captura-de-pantalla-2023-08-27-a-la-s-17-14-38.png](https://i.postimg.cc/wxVBwXdV/Captura-de-pantalla-2023-08-27-a-la-s-17-14-38.png)](https://postimg.cc/6T8w3Gq2)
 
-![Screenshot 2022-12-20 at 00 24 58](https://user-images.githubusercontent.com/14070303/208484200-d7a09d39-5366-41e8-ba68-456b565b1675.png)
+[![Captura-de-pantalla-2023-08-27-a-la-s-17-06-26.png](https://i.postimg.cc/NfjjSKsw/Captura-de-pantalla-2023-08-27-a-la-s-17-06-26.png)](https://postimg.cc/WtxVJbq9)
 
-![Screenshot 2022-12-19 at 23 44 47](https://user-images.githubusercontent.com/14070303/208476516-b0d11a7c-4832-4868-be55-cb92da6db780.png)
+[![Captura-de-pantalla-2023-08-27-a-la-s-17-09-24.png](https://i.postimg.cc/sxwD1rJ8/Captura-de-pantalla-2023-08-27-a-la-s-17-09-24.png)](https://postimg.cc/cttN5P2M)
