@@ -7,7 +7,7 @@ Download here: https://bit.ly/B450M-5600G-Hackintosh
 - Motherboard     : Asus Prime B450M - AII
 - BIOS      : AMI BIOS LAST VERSION
 - CPU       : AMD Ryzen 5 5600G with Radeon Graphics
-- RAM       : 2 x 8GB DDR4 3600Mhz
+- RAM       : 2 x 8GB DDR4 3200Mhz
 - Storage   : 500GB SSD + 1TB HDD
 - iGPU      : Radeon™ Integrated Graphics
 - Ethernet  : Realtek RTL8111 Ethernet
@@ -18,7 +18,6 @@ Download here: https://bit.ly/B450M-5600G-Hackintosh
 
 ## Whats Work?
 
-- QE/CI Graphics of RX 6600 XT + DRM
 - CPU Power Management
 - Shutdown and Restart
 - All USB Ports
