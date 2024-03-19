@@ -1,6 +1,13 @@
 # RyzenTosh B450-AII/5600G/Radeon™ Integrated Graphics
 OpenCore EFI for B450 Chipset Motherboard with AMD Ryzen 5 5600G Processor + Radeon™ Integrated Graphics.
 
+!important = At the time of starting macOS can give you a black screen, if that is your case change SMBios and it will be solved.
+
+- first test with MacPro 7.1
+- then with the iMac 20.1
+- OpenCore 0.9.4
+
+
 Download here: https://bit.ly/B450M-5600G-Hackintosh 
 ## Specification
 
